@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "12b1036070135976",
+        "id": "e9c10a50af91f147",
         "type": "tabs",
         "children": [
           {
-            "id": "15f608ca72bc4d21",
+            "id": "affa9f3997ba7127",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Pattern/Real time updates.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Pattern/Real time updates.md",
+                "bFile": "Pattern/Real time updates.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Real time updates"
+              "icon": "diff",
+              "title": "Diff: Real time updates  (Working Tree)"
             }
           }
         ]
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,11 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15f608ca72bc4d21",
+  "active": "f422f0f4967bdc16",
   "lastOpenFiles": [
+    "Pattern/Real time updates.md",
     "Excalidraw/Untitled-2025-09-04-2202.excalidraw",
     "Excalidraw/Forward and Reverse Proxy.md",
-    "Pattern/Real time updates.md",
     "Excalidraw/General cheatsheet.md",
     "Excalidraw/General Architecture of API gateway.md",
     "Pasted Image 20260613224737_763.png",
