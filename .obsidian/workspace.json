@@ -4,298 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "88b6f4d022ce6dee",
+        "id": "1883d3e9977c630d",
         "type": "split",
         "children": [
           {
-            "id": "79168c956dad8662",
+            "id": "1fd79d81ebd53a5b",
             "type": "tabs",
-            "dimension": 29.946524064171122,
             "children": [
               {
-                "id": "3ba5ab16ad7d762b",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              },
-              {
-                "id": "023542bf0c987541",
+                "id": "e7201d9393b3a286",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "System Design/Excalidraw.md"
+                    "file": "System Design/Chat_WhatsApp.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
+                  "title": "Chat_WhatsApp"
                 }
               },
               {
-                "id": "d28b8cb7c943c9a2",
+                "id": "82519deb06ce930c",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "System Design/Excalidraw.md"
+                    "file": "Excalidraw/Drawing 2026-08-02 19.41.43.excalidraw.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
+                  "title": "Drawing 2026-08-02 19.41.43.excalidraw"
                 }
               },
               {
-                "id": "beced50743ba7980",
+                "id": "4c56b9712ca9a195",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "System Design/Excalidraw.md"
+                    "file": "System Design/Key Value Store.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "5b22157cf38d94ac",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "47f55b954d9f36a9",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "278bc5f1283befc8",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "072c8271e147607c",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "fcaa8ec5156cc059",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "d4e9f9dd192c8b9e",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "e7b820047ea442f1",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "8b9869cfe6077130",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "aad0558cd6f27bb6",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Twitter.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Twitter"
-                }
-              },
-              {
-                "id": "cffa14c4d2852e62",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "2d7c07ade7ce7c9e",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "15703aebec96e058",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "a406a9a1f2f2326f",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "a64c476cb3914cd1",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "7b005e31165f7895",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "c642f3e44eb45d48",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "0a8348d46c135ef3",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Excalidraw"
-                }
-              },
-              {
-                "id": "39ed578f9bf76f31",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Web Crawler.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Web Crawler"
-                }
-              },
-              {
-                "id": "4671e77baa4b670c",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Youtube.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Youtube"
+                  "title": "Key Value Store"
                 }
               }
             ],
-            "currentTab": 22
+            "currentTab": 1
           },
           {
-            "id": "5581d856deab877b",
+            "id": "d7ccdfe0bf5be734",
             "type": "tabs",
-            "dimension": 70.05347593582889,
             "children": [
               {
-                "id": "af1dcf739f6c27f9",
+                "id": "51cd0e561df94110",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -336,7 +96,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: zsh"
+                  "title": "zsh"
                 }
               }
             ]
@@ -362,7 +122,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -399,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d61664bec855b22e",
@@ -518,50 +281,53 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "af1dcf739f6c27f9",
+  "active": "51cd0e561df94110",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-08-02 19.41.43.excalidraw.md",
+    "System Design/Key Value Store.md",
+    "System Design/Payment System.md",
+    "System Design/Dropbox.md",
+    "Untitled.base",
+    "Excalidraw",
+    "System Design/Chat_WhatsApp.md",
+    "System Design/Facebook News feed.md",
+    "System Design/Real Time Gaming Leaderboard.md",
+    "System Design/Tinder.md",
+    "System Design/URL Shortener.md",
     "System Design/Youtube.md",
     "System Design/Web Crawler.md",
-    "System Design/URL Shortener.md",
-    "System Design/Uber.md",
-    "System Design/Twitter.md",
-    "System Design/Tinder.md",
-    "System Design/Real Time Gaming Leaderboard.md",
+    "Technologies/Elasticsearch.md",
     "System Design/Rate Limiter.md",
-    "System Design/Notification System.md",
-    "System Design/Netflix_Hotstar_PrimeVideo.md",
-    "System Design/Leetcode.md",
-    "System Design/Google News.md",
-    "System Design/Key Value Store.md",
-    "System Design/Google docs.md",
-    "System Design/Facebook News feed.md",
-    "System Design/Facebook Live comments.md",
-    "System Design/Excalidraw.md",
-    "System Design/Book my Show.md",
-    "System Design/Chat_WhatsApp.md",
     "System Design/Cheatsheet.md",
-    "System Design/Dropbox.md",
-    "Pattern/Dealing with Contention.md",
+    "System Design/Twitter.md",
+    "System Design/Uber.md",
+    "System Design/Facebook Live comments.md",
+    "System Design/Book my Show.md",
+    "Advanced Topics/Vector databases.md",
+    "System Design/Excalidraw.md",
+    "System Design/Leetcode.md",
+    "Sanket_HLD/URL Shortener.md",
+    "Sanket_HLD/Drawing 2026-06-21 17.58.18.excalidraw.md",
+    "Sanket_HLD/Untitled.md",
+    "System Design/Google News.md",
+    "System Design/Google docs.md",
+    "Sanket_HLD",
     "Screenshots/Screenshot 2026-06-14 at 1.45.53 AM.png",
     "Screenshots/Pasted Image 20260615234339_104.png",
     "Screenshots/Pasted Image 20260615234339_102.png",
     "Screenshots/Pasted Image 20260615234339_088.png",
     "Screenshots/Pasted Image 20260615234246_234.png",
     "Screenshots/Pasted Image 20260615234246_218.png",
-    "Technologies/Elasticsearch.md",
     "Screenshots/Pasted Image 20260615233928_192.png",
     "Screenshots/Pasted Image 20260615233902_804.png",
     "Screenshots/Pasted Image 20260615233755_555.png",
     "Screenshots/Pasted Image 20260615233739_300.png",
-    "Advanced Topics/Vector databases.md",
     "Advanced Topics",
     "Technologies",
     "Screenshots",
-    "Excalidraw/Drawing 2026-06-15 22.47.43.excalidraw.md",
     "Excalidraw/Untitled-2025-09-04-2202.excalidraw",
     "Untitled.canvas",
     "Sanket_HLD",
-    "Untitled.base",
     "Pattern",
     "System Design"
   ]
