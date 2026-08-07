@@ -4,105 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "1883d3e9977c630d",
-        "type": "split",
+        "id": "1fd79d81ebd53a5b",
+        "type": "tabs",
         "children": [
           {
-            "id": "1fd79d81ebd53a5b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e7201d9393b3a286",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Chat_WhatsApp.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Chat_WhatsApp"
-                }
+            "id": "e7201d9393b3a286",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Chat_WhatsApp.md"
               },
-              {
-                "id": "82519deb06ce930c",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2026-08-02 19.41.43.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2026-08-02 19.41.43.excalidraw"
-                }
-              },
-              {
-                "id": "4c56b9712ca9a195",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "System Design/Key Value Store.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Key Value Store"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "excalidraw-icon",
+              "title": "Chat_WhatsApp"
+            }
           },
           {
-            "id": "d7ccdfe0bf5be734",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "51cd0e561df94110",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/nikhil.sandilya/Desktop/Nikhil/Obsidian",
-                      "focus": false,
-                      "profile": {
-                        "args": [
-                          "--login"
-                        ],
-                        "environment": [],
-                        "executable": "/bin/zsh",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "profileSourceId": "darwinIntegratedDefault",
-                      "serial": null,
-                      "userTitle": ""
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "zsh"
-                }
-              }
-            ]
+            "id": "4c56b9712ca9a195",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Key Value Store.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Key Value Store"
+            }
+          },
+          {
+            "id": "1f3712e255b87592",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Yelp.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Yelp"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,10 +223,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "51cd0e561df94110",
+  "active": "1f3712e255b87592",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-08-02 19.41.43.excalidraw.md",
     "System Design/Key Value Store.md",
+    "System Design/Yelp.md",
+    "Excalidraw/Drawing 2026-08-02 19.41.43.excalidraw.md",
     "System Design/Payment System.md",
     "System Design/Dropbox.md",
     "Untitled.base",
@@ -310,7 +253,6 @@
     "Sanket_HLD/Drawing 2026-06-21 17.58.18.excalidraw.md",
     "Sanket_HLD/Untitled.md",
     "System Design/Google News.md",
-    "System Design/Google docs.md",
     "Sanket_HLD",
     "Screenshots/Screenshot 2026-06-14 at 1.45.53 AM.png",
     "Screenshots/Pasted Image 20260615234339_104.png",
