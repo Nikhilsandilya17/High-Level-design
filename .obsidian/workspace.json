@@ -54,9 +54,21 @@
               "icon": "excalidraw-icon",
               "title": "Online Auction"
             }
+          },
+          {
+            "id": "e72e33ea5eeeda13",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "System Design/Price Tracking Service.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Price Tracking Service"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -235,10 +247,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "25b303ba122de35e",
+  "active": "e72e33ea5eeeda13",
   "lastOpenFiles": [
-    "System Design/Yelp.md",
     "System Design/Online Auction.md",
+    "System Design/Price Tracking Service.md",
+    "System Design/URL Shortener.md",
+    "System Design/Yelp.md",
     "System Design/Key Value Store.md",
     "Excalidraw/Drawing 2026-08-02 19.41.43.excalidraw.md",
     "System Design/Payment System.md",
@@ -249,7 +263,6 @@
     "System Design/Facebook News feed.md",
     "System Design/Real Time Gaming Leaderboard.md",
     "System Design/Tinder.md",
-    "System Design/URL Shortener.md",
     "System Design/Youtube.md",
     "System Design/Web Crawler.md",
     "Technologies/Elasticsearch.md",
@@ -264,7 +277,6 @@
     "System Design/Leetcode.md",
     "Sanket_HLD/URL Shortener.md",
     "Sanket_HLD/Drawing 2026-06-21 17.58.18.excalidraw.md",
-    "Sanket_HLD/Untitled.md",
     "Sanket_HLD",
     "Screenshots/Screenshot 2026-06-14 at 1.45.53 AM.png",
     "Screenshots/Pasted Image 20260615234339_104.png",
