@@ -61,10 +61,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Price Tracking Service.md"
+                "file": "System Design/Yelp.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Price Tracking Service"
+              "title": "Yelp"
             }
           }
         ],
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "yelp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -249,17 +250,17 @@
   },
   "active": "e72e33ea5eeeda13",
   "lastOpenFiles": [
-    "System Design/Online Auction.md",
-    "System Design/Price Tracking Service.md",
-    "System Design/URL Shortener.md",
     "System Design/Yelp.md",
+    "System Design/Chat_WhatsApp.md",
+    "System Design/Price Tracking Service.md",
+    "System Design/Online Auction.md",
+    "System Design/URL Shortener.md",
     "System Design/Key Value Store.md",
     "Excalidraw/Drawing 2026-08-02 19.41.43.excalidraw.md",
     "System Design/Payment System.md",
     "System Design/Dropbox.md",
     "Untitled.base",
     "Excalidraw",
-    "System Design/Chat_WhatsApp.md",
     "System Design/Facebook News feed.md",
     "System Design/Real Time Gaming Leaderboard.md",
     "System Design/Tinder.md",
