@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "dd18dc2cba8bf60c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Core Concepts/Database Indexing.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Database Indexing"
+            }
+          },
+          {
             "id": "25b303ba122de35e",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d61664bec855b22e",
@@ -246,10 +259,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "1f3712e255b87592",
+  "active": "dd18dc2cba8bf60c",
   "lastOpenFiles": [
-    "Technologies/Elasticsearch.md",
     "System Design/Yelp.md",
+    "Core Concepts/Database Indexing.md",
+    "Core Concepts",
+    "Technologies/Elasticsearch.md",
     "System Design/Chat_WhatsApp.md",
     "System Design/Price Tracking Service.md",
     "System Design/Online Auction.md",
@@ -275,7 +290,6 @@
     "System Design/Excalidraw.md",
     "System Design/Leetcode.md",
     "Sanket_HLD/URL Shortener.md",
-    "Sanket_HLD/Drawing 2026-06-21 17.58.18.excalidraw.md",
     "Sanket_HLD",
     "Screenshots/Screenshot 2026-06-14 at 1.45.53 AM.png",
     "Screenshots/Pasted Image 20260615234339_104.png",
@@ -293,7 +307,6 @@
     "Excalidraw/Untitled-2025-09-04-2202.excalidraw",
     "Untitled.canvas",
     "Sanket_HLD",
-    "Pattern",
-    "System Design"
+    "Pattern"
   ]
 }
