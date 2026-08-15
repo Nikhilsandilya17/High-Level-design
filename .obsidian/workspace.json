@@ -61,14 +61,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Yelp.md"
+                "file": "Technologies/Elasticsearch.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Yelp"
+              "title": "Elasticsearch"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yelp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,13 +123,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d61664bec855b22e",
@@ -248,8 +246,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e72e33ea5eeeda13",
+  "active": "1f3712e255b87592",
   "lastOpenFiles": [
+    "Technologies/Elasticsearch.md",
     "System Design/Yelp.md",
     "System Design/Chat_WhatsApp.md",
     "System Design/Price Tracking Service.md",
@@ -266,7 +265,6 @@
     "System Design/Tinder.md",
     "System Design/Youtube.md",
     "System Design/Web Crawler.md",
-    "Technologies/Elasticsearch.md",
     "System Design/Rate Limiter.md",
     "System Design/Cheatsheet.md",
     "System Design/Twitter.md",
