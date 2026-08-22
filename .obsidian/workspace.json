@@ -8,67 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7201d9393b3a286",
+            "id": "c0d2ec9150cf03cc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Chat_WhatsApp.md"
+                "file": "System Design/Stock Price Change alert.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Chat_WhatsApp"
+              "title": "Stock Price Change alert"
             }
           },
           {
-            "id": "4c56b9712ca9a195",
+            "id": "3773955ac3384b88",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "System Design/Key Value Store.md"
+                "file": "System Design/Price Tracking Service.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Key Value Store"
+              "title": "Price Tracking Service"
             }
           },
           {
-            "id": "1f3712e255b87592",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "System Design/Yelp.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Yelp"
-            }
-          },
-          {
-            "id": "dd18dc2cba8bf60c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technologies/Elasticsearch.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Elasticsearch"
-            }
-          },
-          {
-            "id": "0cb86b1c3913bb32",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Core Concepts/2PC.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "2PC"
-            }
-          },
-          {
-            "id": "25b303ba122de35e",
+            "id": "c62f9e08b5ce9659",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -78,21 +42,8 @@
               "icon": "excalidraw-icon",
               "title": "Online Auction"
             }
-          },
-          {
-            "id": "e72e33ea5eeeda13",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technologies/Elasticsearch.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Elasticsearch"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,18 +222,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0cb86b1c3913bb32",
+  "active": "c0d2ec9150cf03cc",
   "lastOpenFiles": [
-    "Technologies/Elasticsearch.md",
+    "System Design/Price Tracking Service.md",
+    "System Design/Stock Price Change alert.md",
+    "System Design/Online Auction.md",
+    "System Design/Netflix_Hotstar_PrimeVideo.md",
     "Core Concepts/2PC.md",
+    "Technologies/Elasticsearch.md",
     "Core Concepts/Database Indexing.md",
     "System Design/Youtube.md",
-    "System Design/Online Auction.md",
     "System Design/Facebook Live comments.md",
     "System Design/Dropbox.md",
     "System Design/Leetcode.md",
     "System Design/Yelp.md",
-    "System Design/Price Tracking Service.md",
     "System Design/Payment System.md",
     "Core Concepts",
     "System Design/Chat_WhatsApp.md",
@@ -300,8 +253,6 @@
     "System Design/Twitter.md",
     "System Design/Uber.md",
     "System Design/Book my Show.md",
-    "Advanced Topics/Vector databases.md",
-    "System Design/Excalidraw.md",
     "Sanket_HLD",
     "Screenshots/Screenshot 2026-06-14 at 1.45.53 AM.png",
     "Screenshots/Pasted Image 20260615234339_104.png",
